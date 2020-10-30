@@ -1,0 +1,138 @@
+{
+    "4": {
+        "id": "004",
+        "musicTitle": "Tear Drops",
+        "jacketImage": "teardrop",
+        "bpm": 190,
+        "difficulty": [
+            9,
+            13,
+            17,
+            25,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 25.263157894736842,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 68.210526315789474,
+            "end": 95.684210526315789,
+            "fadeIn": 0.631578947368421
+        },
+        "end": {
+            "start": 113.684210526315789,
+            "end": 150.336,
+            "fadeIn": 0.631578947368421
+        }
+    },
+    "166": {
+        "id": "166",
+        "musicTitle": "Maware! Setsugetsuka",
+        "jacketImage": "166_maware_setsugekka",
+        "bpm": 160,
+        "difficulty": [
+            10,
+            15,
+            21,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 36,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 55.5,
+            "end": 85.5,
+            "fadeIn": 0.375
+        },
+        "end": {
+            "start": 55.5,
+            "end": 99.072,
+            "fadeIn": 0.375
+        }
+    },
+    "175": {
+        "id": "175",
+        "musicTitle": "Ringing Bloom",
+        "jacketImage": "175_ringingbloom",
+        "bpm": 195,
+        "difficulty": [
+            12,
+            16,
+            23,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 30.769230769230769,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 60.307692307692308,
+            "end": 89.538461538461538,
+            "fadeIn": 0.615384615384615
+        },
+        "end": {
+            "start": 69.846153846153846,
+            "end": 121.296,
+            "fadeIn": 0.615384615384615
+        }
+    },
+    "227": {
+        "id": "227",
+        "musicTitle": "Paradisus-Paradoxum",
+        "jacketImage": "227_paradisus",
+        "bpm": 201,
+        "difficulty": [
+            11,
+            15,
+            20,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 31.044776119402985,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 62.08955223880597,
+            "end": 85.970149253731343,
+            "fadeIn": 0.597014925373134
+        },
+        "end": {
+            "start": 62.08955223880597,
+            "end": 94.392,
+            "fadeIn": 0.597014925373134
+        }
+    },
+    "233": {
+        "id": "233",
+        "musicTitle": "Amanojaku",
+        "jacketImage": "233_amanojyaku",
+        "bpm": 200,
+        "difficulty": [
+            11,
+            15,
+            21,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 40.8,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 67.8,
+            "end": 96.6,
+            "fadeIn": 0.6
+        },
+        "end": {
+            "start": 67.8,
+            "end": 110.472,
+            "fadeIn": 0.6
+        }
+    }
+}
