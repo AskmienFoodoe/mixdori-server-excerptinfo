@@ -27,6 +27,34 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "66": {
+        "id": "066",
+        "musicTitle": "Asu no Yozora Shoukaihan",
+        "jacketImage": "066_asuno_yozora",
+        "bpm": 185,
+        "difficulty": [
+            10,
+            15,
+            19,
+            26,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 36.162162162162162,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 36.162162162162162,
+            "end": 58.054054054054054,
+            "fadeIn": 0.486486486486486
+        },
+        "end": {
+            "start": 36.162162162162162,
+            "end": 95.424,
+            "fadeIn": 0.486486486486486
+        }
+    },
     "125": {
         "id": "125",
         "musicTitle": "Unite! From A To Z",
