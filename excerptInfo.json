@@ -27,6 +27,34 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "125": {
+        "id": "125",
+        "musicTitle": "Unite! From A To Z",
+        "jacketImage": "125_tenka_touitsu",
+        "bpm": 153,
+        "difficulty": [
+            8,
+            13,
+            20,
+            26,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 34.509803921568627,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 43.92156862745098,
+            "end": 73.725490196078431,
+            "fadeIn": 0.392156862745098
+        },
+        "end": {
+            "start": 50.196078431372549,
+            "end": 91.056,
+            "fadeIn": 0.784313725490196
+        }
+    },
     "148": {
         "id": "148",
         "musicTitle": "Zettai Sengen ~Recital~",
