@@ -27,6 +27,33 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "148": {
+        "id": "148",
+        "musicTitle": "Zettai Sengen ~Recital~",
+        "jacketImage": "148_zettaisengen",
+        "bpm": 177,
+        "difficulty": [
+            10,
+            14,
+            20,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 24.406779661016949,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 63.728813559322034,
+            "end": 90.847457627118644,
+            "fadeIn": 0.677966101694915
+        },
+        "end": {
+            "start": 63.728813559322034,
+            "end": 109.224,
+            "fadeIn": 0.677966101694915
+        }
+    },
     "166": {
         "id": "166",
         "musicTitle": "Maware! Setsugetsuka",
