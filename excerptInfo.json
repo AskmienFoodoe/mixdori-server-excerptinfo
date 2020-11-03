@@ -54,6 +54,34 @@
             "fadeIn": 0.705882352941176
         }
     },
+    "65": {
+        "id": "065",
+        "musicTitle": "Hey-day Capriccio",
+        "jacketImage": "065_hey_day",
+        "bpm": 158,
+        "difficulty": [
+            10,
+            15,
+            20,
+            28,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 22.784810126582278,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 51.645569620253165,
+            "end": 77.468354430379747,
+            "fadeIn": 0.379746835443038
+        },
+        "end": {
+            "start": 77.468354430379747,
+            "end": 110.952,
+            "fadeIn": 0.379746835443038
+        }
+    },
     "66": {
         "id": "066",
         "musicTitle": "Asu no Yozora Shoukaihan",
