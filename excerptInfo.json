@@ -356,6 +356,33 @@
             "fadeIn": 1.5
         }
     },
+    "295": {
+        "id": "295",
+        "musicTitle": "Nevereverland",
+        "jacketImage": "295_nevereverland",
+        "bpm": 206.5,
+        "difficulty": [
+            10,
+            15,
+            20,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 39.697820823244554,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 97.22808716707022,
+            "end": 128.608232445520583,
+            "fadeIn": 0.290556900726392
+        },
+        "end": {
+            "start": 97.22808716707022,
+            "end": 130.992,
+            "fadeIn": 0.290556900726392
+        }
+    },
     "296": {
         "id": "296",
         "musicTitle": "Setsuna Trip",
