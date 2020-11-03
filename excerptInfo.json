@@ -27,6 +27,34 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "20": {
+        "id": "020",
+        "musicTitle": "Sugar Song & Bitter Step",
+        "jacketImage": "sugarsong",
+        "bpm": 132,
+        "difficulty": [
+            9,
+            14,
+            19,
+            28,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 27.272727272727273,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 56.363636363636364,
+            "end": 92.727272727272727,
+            "fadeIn": 0.909090909090909
+        },
+        "end": {
+            "start": 70.909090909090909,
+            "end": 110.976,
+            "fadeIn": 0.909090909090909
+        }
+    },
     "30": {
         "id": "030",
         "musicTitle": "Re:birth Day",
