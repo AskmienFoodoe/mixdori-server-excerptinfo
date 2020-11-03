@@ -27,6 +27,33 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "30": {
+        "id": "030",
+        "musicTitle": "Re:birth Day",
+        "jacketImage": "re_birthday",
+        "bpm": 170,
+        "difficulty": [
+            7,
+            11,
+            19,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 25.411764705882353,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 62.117647058823529,
+            "end": 104.470588235294118,
+            "fadeIn": 1.058823529411765
+        },
+        "end": {
+            "start": 84.705882352941176,
+            "end": 124.296,
+            "fadeIn": 0.705882352941176
+        }
+    },
     "66": {
         "id": "066",
         "musicTitle": "Asu no Yozora Shoukaihan",
