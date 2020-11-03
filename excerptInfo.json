@@ -27,6 +27,34 @@
             "fadeIn": 0.631578947368421
         }
     },
+    "7": {
+        "id": "007",
+        "musicTitle": "God knows...",
+        "jacketImage": "godknows",
+        "bpm": 150,
+        "difficulty": [
+            10,
+            15,
+            21,
+            28,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 30.4,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 68.8,
+            "end": 97.6,
+            "fadeIn": 1.2
+        },
+        "end": {
+            "start": 68.8,
+            "end": 128.088,
+            "fadeIn": 1.2
+        }
+    },
     "20": {
         "id": "020",
         "musicTitle": "Sugar Song & Bitter Step",
