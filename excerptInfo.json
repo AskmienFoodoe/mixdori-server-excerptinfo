@@ -194,6 +194,34 @@
             "fadeIn": 0.784313725490196
         }
     },
+    "128": {
+        "id": "128",
+        "musicTitle": "Roku Chounen To Ichiya Monogatari",
+        "jacketImage": "128_ichiyamonogatari",
+        "bpm": 186,
+        "difficulty": [
+            8,
+            14,
+            21,
+            29,
+            29
+        ],
+        "begin": {
+            "start": 0,
+            "end": 27.020872865275142,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 52.827324478178368,
+            "end": 78.633776091081594,
+            "fadeIn": 0.645161290322581
+        },
+        "end": {
+            "start": 57.988614800759013,
+            "end": 103.872,
+            "fadeIn": 0.645161290322581
+        }
+    },
     "148": {
         "id": "148",
         "musicTitle": "Zettai Sengen ~Recital~",
