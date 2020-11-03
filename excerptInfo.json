@@ -245,6 +245,33 @@
             "fadeIn": 0.6
         }
     },
+    "283": {
+        "id": "283",
+        "musicTitle": "BRING IT ON",
+        "jacketImage": "283_rettou",
+        "bpm": 160,
+        "difficulty": [
+            10,
+            15,
+            20,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 39,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 55.5,
+            "end": 79.5,
+            "fadeIn": 1.5
+        },
+        "end": {
+            "start": 115.5,
+            "end": 138.84,
+            "fadeIn": 1.5
+        }
+    },
     "296": {
         "id": "296",
         "musicTitle": "Setsuna Trip",
