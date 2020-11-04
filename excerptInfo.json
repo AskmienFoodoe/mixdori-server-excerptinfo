@@ -249,6 +249,33 @@
             "fadeIn": 0.677966101694915
         }
     },
+    "157": {
+        "id": "157",
+        "musicTitle": "Extra Magic Hour",
+        "jacketImage": "157_extra_magic",
+        "bpm": 180,
+        "difficulty": [
+            8,
+            13,
+            18,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 24,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 56,
+            "end": 89.333333333333333,
+            "fadeIn": 0.666666666666667
+        },
+        "end": {
+            "start": 56,
+            "end": 97.392,
+            "fadeIn": 0.666666666666667
+        }
+    },
     "166": {
         "id": "166",
         "musicTitle": "Maware! Setsugetsuka",
