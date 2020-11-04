@@ -303,6 +303,33 @@
             "fadeIn": 0.615384615384615
         }
     },
+    "187": {
+        "id": "187",
+        "musicTitle": "FIRE BIRD",
+        "jacketImage": "187_firebird",
+        "bpm": 150,
+        "difficulty": [
+            9,
+            14,
+            18,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 54.66995688454924,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 85.06995688454924,
+            "end": 121.86995688454924,
+            "fadeIn": 0.8
+        },
+        "end": {
+            "start": 85.06995688454924,
+            "end": 130.752,
+            "fadeIn": 0.8
+        }
+    },
     "227": {
         "id": "227",
         "musicTitle": "Paradisus-Paradoxum",
