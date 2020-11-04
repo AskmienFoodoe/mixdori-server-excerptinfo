@@ -249,6 +249,33 @@
             "fadeIn": 0.677966101694915
         }
     },
+    "153": {
+        "id": "153",
+        "musicTitle": "PASSIONATE ANTHEM",
+        "jacketImage": "153_passionate",
+        "bpm": 195,
+        "difficulty": [
+            9,
+            14,
+            19,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 32,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 64,
+            "end": 96,
+            "fadeIn": 1.076923076923077
+        },
+        "end": {
+            "start": 64,
+            "end": 98.544,
+            "fadeIn": 1.076923076923077
+        }
+    },
     "157": {
         "id": "157",
         "musicTitle": "Extra Magic Hour",
