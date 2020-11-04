@@ -357,6 +357,33 @@
             "fadeIn": 0.6
         }
     },
+    "245": {
+        "id": "245",
+        "musicTitle": "Song I am.",
+        "jacketImage": "245_songiam",
+        "bpm": 190,
+        "difficulty": [
+            8,
+            15,
+            21,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 37.894736842105263,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 58.105263157894737,
+            "end": 88.421052631578947,
+            "fadeIn": 0.631578947368421
+        },
+        "end": {
+            "start": 64.421052631578947,
+            "end": 102.384,
+            "fadeIn": 0.473684210526316
+        }
+    },
     "279": {
         "id": "279",
         "musicTitle": "flame of hope",
