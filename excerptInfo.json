@@ -384,6 +384,33 @@
             "fadeIn": 1.5
         }
     },
+    "291": {
+        "id": "291",
+        "musicTitle": "Zeal of Proud",
+        "jacketImage": "291_zeal_of_proud",
+        "bpm": 195,
+        "difficulty": [
+            9,
+            15,
+            20,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 41.846153846153846,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 61.538461538461538,
+            "end": 86.153846153846154,
+            "fadeIn": 0.615384615384615
+        },
+        "end": {
+            "start": 97.22808716707022,
+            "end": 103.464,
+            "fadeIn": 0.615384615384615
+        }
+    },
     "295": {
         "id": "295",
         "musicTitle": "Nevereverland",
