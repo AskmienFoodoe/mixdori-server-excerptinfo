@@ -166,6 +166,34 @@
             "fadeIn": 0.486486486486486
         }
     },
+    "70": {
+        "id": "070",
+        "musicTitle": "SURVIVOR Never Give Up!",
+        "jacketImage": "070_survivor",
+        "bpm": 200,
+        "difficulty": [
+            10,
+            15,
+            20,
+            26,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 34.8,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 54,
+            "end": 79.2,
+            "fadeIn": 0.45
+        },
+        "end": {
+            "start": 54,
+            "end": 108.576,
+            "fadeIn": 0.45
+        }
+    },
     "89": {
         "id": "089",
         "musicTitle": "Redo",
