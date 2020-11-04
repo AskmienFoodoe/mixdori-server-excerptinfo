@@ -357,6 +357,33 @@
             "fadeIn": 0.6
         }
     },
+    "279": {
+        "id": "279",
+        "musicTitle": "flame of hope",
+        "jacketImage": "279_flame_of_hope",
+        "bpm": 190,
+        "difficulty": [
+            10,
+            15,
+            21,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 44.052631578947368,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 81.947368421052632,
+            "end": 109.894736842105263,
+            "fadeIn": 0.473684210526316
+        },
+        "end": {
+            "start": 81.947368421052632,
+            "end": 111.864,
+            "fadeIn": 0.473684210526316
+        }
+    },
     "283": {
         "id": "283",
         "musicTitle": "BRING IT ON",
