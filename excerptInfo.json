@@ -110,6 +110,33 @@
             "fadeIn": 0.705882352941176
         }
     },
+    "31": {
+        "id": "031",
+        "musicTitle": "LOUDER",
+        "jacketImage": "louder",
+        "bpm": 195,
+        "difficulty": [
+            7,
+            11,
+            19,
+            28
+        ],
+        "begin": {
+            "start": 0,
+            "end": 32,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 56.615384615384615,
+            "end": 81.230769230769231,
+            "fadeIn": 0.307692307692308
+        },
+        "end": {
+            "start": 61.384615384615385,
+            "end": 109.844875,
+            "fadeIn": 0.461538461538462
+        }
+    },
     "37": {
         "id": "037",
         "musicTitle": "Goka! Gokai!? Phantom Thief!",
