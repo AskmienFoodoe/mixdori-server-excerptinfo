@@ -194,6 +194,33 @@
             "fadeIn": 0.45
         }
     },
+    "76": {
+        "id": "076",
+        "musicTitle": "Determination Symphony",
+        "jacketImage": "076_symphony",
+        "bpm": 190,
+        "difficulty": [
+            7,
+            13,
+            21,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 30.315789473684211,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 75.631578947368421,
+            "end": 102.315789473684211,
+            "fadeIn": 0.789473684210526
+        },
+        "end": {
+            "start": 75.631578947368421,
+            "end": 130.8,
+            "fadeIn": 0.789473684210526
+        }
+    },
     "89": {
         "id": "089",
         "musicTitle": "Redo",
