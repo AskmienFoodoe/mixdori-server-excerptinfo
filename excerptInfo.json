@@ -110,6 +110,34 @@
             "fadeIn": 0.705882352941176
         }
     },
+    "55": {
+        "id": "055",
+        "musicTitle": "Guren no Yumiya",
+        "jacketImage": "055_guren",
+        "bpm": 181,
+        "difficulty": [
+            10,
+            14,
+            19,
+            27,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 18.56353591160221,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 39.779005524861878,
+            "end": 70.276243093922652,
+            "fadeIn": 0.331491712707182
+        },
+        "end": {
+            "start": 60.994475138121547,
+            "end": 98.856,
+            "fadeIn": 0.331491712707182
+        }
+    },
     "65": {
         "id": "065",
         "musicTitle": "Hey-day Capriccio",
