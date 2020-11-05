@@ -110,6 +110,34 @@
             "fadeIn": 0.705882352941176
         }
     },
+    "37": {
+        "id": "037",
+        "musicTitle": "Goka! Gokai!? Phantom Thief!",
+        "jacketImage": "phantom_thief",
+        "bpm": 215,
+        "difficulty": [
+            7,
+            14,
+            19,
+            27,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 40.186046511627907,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 52.465116279069767,
+            "end": 77.023255813953488,
+            "fadeIn": 0.27906976744186
+        },
+        "end": {
+            "start": 61.395348837209302,
+            "end": 101.928,
+            "fadeIn": 0.558139534883721
+        }
+    },
     "55": {
         "id": "055",
         "musicTitle": "Guren no Yumiya",
