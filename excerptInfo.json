@@ -848,6 +848,33 @@
             "fadeIn": 0.620689655172414
         }
     },
+    "299": {
+        "id": "299",
+        "musicTitle": "Rolling star",
+        "jacketImage": "299_rolling_star",
+        "bpm": 161,
+        "difficulty": [
+            8,
+            15,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 34.285714285714286,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 34.285714285714286,
+            "end": 59.627329192546584,
+            "fadeIn": 0.372670807453416
+        },
+        "end": {
+            "start": 77.515527950310559,
+            "end": 119.328,
+            "fadeIn": 0.372670807453416
+        }
+    },
     "301": {
         "id": "301",
         "musicTitle": "mind of Prominence",
