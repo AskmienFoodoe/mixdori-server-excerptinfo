@@ -632,6 +632,33 @@
             "fadeIn": 0.8
         }
     },
+    "204": {
+        "id": "204",
+        "musicTitle": "Miiro",
+        "jacketImage": "204_miiro",
+        "bpm": 195,
+        "difficulty": [
+            9,
+            15,
+            18,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 38.153846153846154,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 56.923076923076923,
+            "end": 92.307692307692308,
+            "fadeIn": 0.307692307692308
+        },
+        "end": {
+            "start": 56.923076923076923,
+            "end": 94.224,
+            "fadeIn": 0.307692307692308
+        }
+    },
     "227": {
         "id": "227",
         "musicTitle": "Paradisus-Paradoxum",
