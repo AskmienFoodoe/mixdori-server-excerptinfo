@@ -794,6 +794,33 @@
             "fadeIn": 0.615384615384615
         }
     },
+    "293": {
+        "id": "293",
+        "musicTitle": "ONE OF US",
+        "jacketImage": "293_one_of_us",
+        "bpm": 210,
+        "difficulty": [
+            10,
+            15,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 41.142857142857143,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 54.857142857142857,
+            "end": 82.285714285714286,
+            "fadeIn": 0.285714285714286
+        },
+        "end": {
+            "start": 64,
+            "end": 109.2,
+            "fadeIn": 0.285714285714286
+        }
+    },
     "295": {
         "id": "295",
         "musicTitle": "Nevereverland",
