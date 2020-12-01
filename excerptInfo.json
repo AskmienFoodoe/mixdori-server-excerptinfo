@@ -932,6 +932,33 @@
             "fadeIn": 0.486486486486486
         }
     },
+    "268": {
+        "id": "268",
+        "musicTitle": "One Extra Large! Garupa☆Pico",
+        "jacketImage": "268_omori_pico",
+        "bpm": 163,
+        "difficulty": [
+            10,
+            15,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 42.699386503067485,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 55.950920245398773,
+            "end": 87.239263803680982,
+            "fadeIn": 1.104294478527607
+        },
+        "end": {
+            "start": 55.950920245398773,
+            "end": 111.888,
+            "fadeIn": 1.104294478527607
+        }
+    },
     "279": {
         "id": "279",
         "musicTitle": "flame of hope",
