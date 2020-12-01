@@ -1,4 +1,32 @@
 {
+    "1": {
+        "id": "001",
+        "musicTitle": "Yes! BanG Dream!",
+        "jacketImage": "yes_bang_dream",
+        "bpm": 185,
+        "difficulty": [
+            5,
+            10,
+            15,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 33.72972972972973,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 83.027027027027027,
+            "end": 108.972972972972973,
+            "fadeIn": 0.648648648648649
+        },
+        "end": {
+            "start": 83.027027027027027,
+            "end": 120.048,
+            "fadeIn": 0.648648648648649
+        }
+    },
     "4": {
         "id": "004",
         "musicTitle": "Tear Drops",
