@@ -527,6 +527,33 @@
             "fadeIn": 0.645161290322581
         }
     },
+    "131": {
+        "id": "131",
+        "musicTitle": "Pico! Papi! Girls Band Party! PICO!!!",
+        "jacketImage": "131_garupapico",
+        "bpm": 190,
+        "difficulty": [
+            9,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 25.263157894736842,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 55.578947368421053,
+            "end": 96,
+            "fadeIn": 0.631578947368421
+        },
+        "end": {
+            "start": 55.578947368421053,
+            "end": 113.76,
+            "fadeIn": 0.631578947368421
+        }
+    },
     "148": {
         "id": "148",
         "musicTitle": "Zettai Sengen ~Recital~",
