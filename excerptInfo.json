@@ -249,6 +249,34 @@
             "fadeIn": 0.486486486486486
         }
     },
+    "69": {
+        "id": "069",
+        "musicTitle": "Worldwide Treasure!",
+        "jacketImage": "069_sekanobi",
+        "bpm": 185,
+        "difficulty": [
+            8,
+            14,
+            20,
+            26,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 31.058823529411765,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 64.941176470588235,
+            "end": 91.76470588235294,
+            "fadeIn": 0.75
+        },
+        "end": {
+            "start": 64.941176470588235,
+            "end": 107.424,
+            "fadeIn": 0.75
+        }
+    },
     "70": {
         "id": "070",
         "musicTitle": "SURVIVOR Never Give Up!",
