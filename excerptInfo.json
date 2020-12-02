@@ -111,6 +111,33 @@
             "fadeIn": 1.2
         }
     },
+    "8": {
+        "id": "008",
+        "musicTitle": "Sorairo Days",
+        "jacketImage": "sorairodays",
+        "bpm": 174,
+        "difficulty": [
+            5,
+            12,
+            18,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 40.689655172413793,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 52.413793103448276,
+            "end": 85.517241379310345,
+            "fadeIn": 0.344827586206897
+        },
+        "end": {
+            "start": 52.413793103448276,
+            "end": 104.928,
+            "fadeIn": 0.344827586206897
+        }
+    },
     "20": {
         "id": "020",
         "musicTitle": "Sugar Song & Bitter Step",
