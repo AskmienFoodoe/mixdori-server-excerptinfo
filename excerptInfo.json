@@ -1122,6 +1122,33 @@
             "fadeIn": 1.5
         }
     },
+    "284": {
+        "id": "284",
+        "musicTitle": "I knew it!",
+        "jacketImage": "284_i_knew_it",
+        "bpm": 200,
+        "difficulty": [
+            9,
+            14,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 42,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 61.2,
+            "end": 97.2,
+            "fadeIn": 0.6
+        },
+        "end": {
+            "start": 61.2,
+            "end": 102.672,
+            "fadeIn": 0.6
+        }
+    },
     "289": {
         "id": "289",
         "musicTitle": "!NVADE SHOW!",
