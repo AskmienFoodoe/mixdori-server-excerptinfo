@@ -1068,6 +1068,33 @@
             "fadeIn": 1.104294478527607
         }
     },
+    "270": {
+        "id": "270",
+        "musicTitle": "RED RED RED",
+        "jacketImage": "270_redredred",
+        "bpm": 188,
+        "difficulty": [
+            8,
+            13,
+            17,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 30.638297872340426,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 71.48936170212766,
+            "end": 101.968085106382979,
+            "fadeIn": 0.638297872340426
+        },
+        "end": {
+            "start": 71.48936170212766,
+            "end": 109.224,
+            "fadeIn": 0.638297872340426
+        }
+    },
     "279": {
         "id": "279",
         "musicTitle": "flame of hope",
