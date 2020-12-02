@@ -526,6 +526,33 @@
             "fadeIn": 0.4081632653061224
         }
     },
+    "118": {
+        "id": "118",
+        "musicTitle": "Neo-Aspect",
+        "jacketImage": "118_neoaspect",
+        "bpm": 180,
+        "difficulty": [
+            9,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 29.333333333333333,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 72,
+            "end": 109.333333333333333,
+            "fadeIn": 0.666666666666667
+        },
+        "end": {
+            "start": 72,
+            "end": 116.736,
+            "fadeIn": 0.666666666666667
+        }
+    },
     "125": {
         "id": "125",
         "musicTitle": "Unite! From A To Z",
