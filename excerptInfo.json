@@ -360,6 +360,34 @@
             "fadeIn": 0.486486486486486
         }
     },
+    "67": {
+        "id": "067",
+        "musicTitle": "only my railgun",
+        "jacketImage": "067_railgun",
+        "bpm": 143,
+        "difficulty": [
+            9,
+            15,
+            19,
+            26,
+            25
+        ],
+        "begin": {
+            "start": 0,
+            "end": 36.923076923076923,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 63.776223776223776,
+            "end": 97.342657342657343,
+            "fadeIn": 0.839160839160839
+        },
+        "end": {
+            "start": 63.776223776223776,
+            "end": 104.976,
+            "fadeIn": 0.839160839160839
+        }
+    },
     "69": {
         "id": "069",
         "musicTitle": "Worldwide Treasure!",
