@@ -471,6 +471,33 @@
             "fadeIn": 0.789473684210526
         }
     },
+    "81": {
+        "id": "081",
+        "musicTitle": "Senbonzakura",
+        "jacketImage": "081_senbonzakura",
+        "bpm": 154,
+        "difficulty": [
+            8,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 34.285714285714286,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 59.220779220779221,
+            "end": 96.623376623376623,
+            "fadeIn": 0.779220779220779
+        },
+        "end": {
+            "start": 59.220779220779221,
+            "end": 101.376,
+            "fadeIn": 0.779220779220779
+        }
+    },
     "85": {
         "id": "085",
         "musicTitle": "Happy Synthesizer",
