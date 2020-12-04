@@ -881,6 +881,33 @@
             "fadeIn": 0.46875
         }
     },
+    "160": {
+        "id": "160",
+        "musicTitle": "R・I・O・T",
+        "jacketImage": "160_riot_raise",
+        "bpm": 140,
+        "difficulty": [
+            7,
+            12,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 42.857142857142857,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 84,
+            "end": 114.857142857142857,
+            "fadeIn": 0.857142857142857
+        },
+        "end": {
+            "start": 84,
+            "end": 120.936,
+            "fadeIn": 0.857142857142857
+        }
+    },
     "166": {
         "id": "166",
         "musicTitle": "Maware! Setsugetsuka",
