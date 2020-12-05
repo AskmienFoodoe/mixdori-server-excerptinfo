@@ -1232,6 +1232,33 @@
             "fadeIn": 1.046511627906977
         }
     },
+    "222": {
+        "id": "222",
+        "musicTitle": "Sasanqua",
+        "jacketImage": "222_sasanqua",
+        "bpm": 198,
+        "difficulty": [
+            7,
+            14,
+            18,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 26.666666666666667,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 58.181818181818182,
+            "end": 92.121212121212121,
+            "fadeIn": 0.909090909090909
+        },
+        "end": {
+            "start": 70.303030303030303,
+            "end": 103.104,
+            "fadeIn": 1.060606060606061
+        }
+    },
     "227": {
         "id": "227",
         "musicTitle": "Paradisus-Paradoxum",
