@@ -552,6 +552,33 @@
             "fadeIn": 0.779220779220779
         }
     },
+    "82": {
+        "id": "082",
+        "musicTitle": "Koi wa Chaos no Shimobenari",
+        "jacketImage": "082_chaos",
+        "bpm": 158,
+        "difficulty": [
+            7,
+            13,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 30.379746835443038,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 60.759493670886076,
+            "end": 91.139240506329114,
+            "fadeIn": 0.759493670886076
+        },
+        "end": {
+            "start": 66.835443037974684,
+            "end": 107.16,
+            "fadeIn": 0.974025974025974
+        }
+    },
     "85": {
         "id": "085",
         "musicTitle": "Happy Synthesizer",
