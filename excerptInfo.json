@@ -1151,6 +1151,33 @@
             "fadeIn": 0.307692307692308
         }
     },
+    "210": {
+        "id": "210",
+        "musicTitle": "Hot, Hot! Sunny Love☆Summer!",
+        "jacketImage": "210_lovesummer",
+        "bpm": 172,
+        "difficulty": [
+            9,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 32.093023255813953,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 62.790697674418605,
+            "end": 93.488372093023256,
+            "fadeIn": 0.872093023255814
+        },
+        "end": {
+            "start": 69.767441860465116,
+            "end": 109.608,
+            "fadeIn": 1.046511627906977
+        }
+    },
     "227": {
         "id": "227",
         "musicTitle": "Paradisus-Paradoxum",
