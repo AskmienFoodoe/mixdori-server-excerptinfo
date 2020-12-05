@@ -471,6 +471,33 @@
             "fadeIn": 0.45
         }
     },
+    "75": {
+        "id": "075",
+        "musicTitle": "-HEROIC ADVENT-",
+        "jacketImage": "075_heroic_advent",
+        "bpm": 182,
+        "difficulty": [
+            9,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 39.56043956043956,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 55.384615384615385,
+            "end": 100.21978021978022,
+            "fadeIn": 0.659340659340659
+        },
+        "end": {
+            "start": 58.021978021978022,
+            "end": 103.584,
+            "fadeIn": 0.989010989010989
+        }
+    },
     "76": {
         "id": "076",
         "musicTitle": "Determination Symphony",
