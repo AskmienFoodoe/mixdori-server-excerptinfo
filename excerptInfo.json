@@ -304,6 +304,33 @@
             "fadeIn": 0.331491712707182
         }
     },
+    "56": {
+        "id": "056",
+        "musicTitle": "Passionate Starmine",
+        "jacketImage": "056_starmine",
+        "bpm": 187,
+        "difficulty": [
+            10,
+            14,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 46.203208556149733,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 79.572192513368984,
+            "end": 116.79144385026738,
+            "fadeIn": 0.641711229946524
+        },
+        "end": {
+            "start": 84.705882352941176,
+            "end": 118.776,
+            "fadeIn": 0.962566844919786
+        }
+    },
     "65": {
         "id": "065",
         "musicTitle": "Hey-day Capriccio",
