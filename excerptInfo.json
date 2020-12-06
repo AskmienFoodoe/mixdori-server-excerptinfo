@@ -1502,6 +1502,33 @@
             "fadeIn": 0.727272727272727
         }
     },
+    "263": {
+        "id": "263",
+        "musicTitle": "Bloom Bloom",
+        "jacketImage": "263_bloom",
+        "bpm": 180,
+        "difficulty": [
+            9,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 22.666666666666667,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 65.333333333333333,
+            "end": 94.5,
+            "fadeIn": 0.333333333333333
+        },
+        "end": {
+            "start": 65.333333333333333,
+            "end": 110.064,
+            "fadeIn": 0.333333333333333
+        }
+    },
     "268": {
         "id": "268",
         "musicTitle": "One Extra Large! Garupa☆Pico",
