@@ -717,6 +717,33 @@
             "fadeIn": 0.4081632653061224
         }
     },
+    "112": {
+        "id": "112",
+        "musicTitle": "Light Delight",
+        "jacketImage": "112_lightdelight",
+        "bpm": 180,
+        "difficulty": [
+            9,
+            14,
+            20,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 24,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 69.333333333333333,
+            "end": 109.333333333333333,
+            "fadeIn": 0.666666666666667
+        },
+        "end": {
+            "start": 82.666666666666667,
+            "end": 122.736,
+            "fadeIn": 1
+        }
+    },
     "118": {
         "id": "118",
         "musicTitle": "Neo-Aspect",
