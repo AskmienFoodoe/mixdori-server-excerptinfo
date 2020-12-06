@@ -471,6 +471,33 @@
             "fadeIn": 0.45
         }
     },
+    "73": {
+        "id": "073",
+        "musicTitle": "Time Lapse",
+        "jacketImage": "073_time_lapse",
+        "bpm": 192,
+        "difficulty": [
+            9,
+            15,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 37.5,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 72.34375,
+            "end": 105,
+            "fadeIn": 0.46875
+        },
+        "end": {
+            "start": 72.34375,
+            "end": 123.816,
+            "fadeIn": 0.46875
+        }
+    },
     "75": {
         "id": "075",
         "musicTitle": "-HEROIC ADVENT-",
