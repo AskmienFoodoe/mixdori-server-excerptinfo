@@ -1232,6 +1232,33 @@
             "fadeIn": 1.411764705882353
         }
     },
+    "203": {
+        "id": "203",
+        "musicTitle": "A DECLARATION OF ×××",
+        "jacketImage": "203_declaration",
+        "bpm": 150,
+        "difficulty": [
+            8,
+            14,
+            19,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 35.2,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 86.4,
+            "end": 118.4,
+            "fadeIn": 1.4
+        },
+        "end": {
+            "start": 86.4,
+            "end": 120.072,
+            "fadeIn": 1.4
+        }
+    },
     "204": {
         "id": "204",
         "musicTitle": "Miiro",
