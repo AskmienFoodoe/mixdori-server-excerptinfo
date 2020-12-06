@@ -1475,6 +1475,33 @@
             "fadeIn": 0.486486486486486
         }
     },
+    "259": {
+        "id": "259",
+        "musicTitle": "chAngE",
+        "jacketImage": "259_change",
+        "bpm": 165,
+        "difficulty": [
+            8,
+            14,
+            18,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 27.636363636363636,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 62.545454545454545,
+            "end": 91.636363636363636,
+            "fadeIn": 0.727272727272727
+        },
+        "end": {
+            "start": 62.545454545454545,
+            "end": 104.808,
+            "fadeIn": 0.727272727272727
+        }
+    },
     "268": {
         "id": "268",
         "musicTitle": "One Extra Large! Garupa☆Pico",
