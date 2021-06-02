@@ -3,6 +3,7 @@
         "id": "001",
         "musicTitle": "Yes! BanG Dream!",
         "jacketImage": "yes_bang_dream",
+        "bandId": 1,
         "bpm": 185,
         "difficulty": [
             5,
@@ -17,12 +18,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 83.027027027027027,
-            "end": 108.972972972972973,
+            "start": 83.02702702702703,
+            "end": 108.97297297297297,
             "fadeIn": 0.648648648648649
         },
         "end": {
-            "start": 83.027027027027027,
+            "start": 83.02702702702703,
             "end": 120.048,
             "fadeIn": 0.648648648648649
         }
@@ -31,6 +32,7 @@
         "id": "002",
         "musicTitle": "Star Beat!",
         "jacketImage": "star_beat",
+        "bandId": 1,
         "bpm": 195,
         "difficulty": [
             7,
@@ -41,16 +43,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 24.615384615384615,
+            "end": 24.615384615384617,
             "fadeIn": 0
         },
         "mid": {
-            "start": 68.923076923076923,
-            "end": 103.384615384615385,
+            "start": 68.92307692307692,
+            "end": 103.38461538461539,
             "fadeIn": 0.923076923076923
         },
         "end": {
-            "start": 68.923076923076923,
+            "start": 68.92307692307692,
             "end": 132.84,
             "fadeIn": 0.923076923076923
         }
@@ -59,6 +61,7 @@
         "id": "004",
         "musicTitle": "Tear Drops",
         "jacketImage": "teardrop",
+        "bandId": 1,
         "bpm": 190,
         "difficulty": [
             9,
@@ -73,12 +76,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 68.210526315789474,
-            "end": 95.684210526315789,
+            "start": 68.21052631578948,
+            "end": 95.6842105263158,
             "fadeIn": 0.631578947368421
         },
         "end": {
-            "start": 113.684210526315789,
+            "start": 113.6842105263158,
             "end": 150.336,
             "fadeIn": 0.631578947368421
         }
@@ -87,6 +90,7 @@
         "id": "007",
         "musicTitle": "God knows...",
         "jacketImage": "godknows",
+        "bandId": 1,
         "bpm": 150,
         "difficulty": [
             10,
@@ -115,6 +119,7 @@
         "id": "008",
         "musicTitle": "Sorairo Days",
         "jacketImage": "sorairodays",
+        "bandId": 1,
         "bpm": 174,
         "difficulty": [
             5,
@@ -124,16 +129,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 40.689655172413793,
+            "end": 40.689655172413794,
             "fadeIn": 0
         },
         "mid": {
-            "start": 52.413793103448276,
-            "end": 85.517241379310345,
+            "start": 52.41379310344828,
+            "end": 85.51724137931035,
             "fadeIn": 0.344827586206897
         },
         "end": {
-            "start": 52.413793103448276,
+            "start": 52.41379310344828,
             "end": 104.928,
             "fadeIn": 0.344827586206897
         }
@@ -142,6 +147,7 @@
         "id": "010",
         "musicTitle": "Alchemy",
         "jacketImage": "alchemy",
+        "bandId": 1,
         "bpm": 165,
         "difficulty": [
             7,
@@ -152,16 +158,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.545454545454545,
+            "end": 30.545454545454547,
             "fadeIn": 0
         },
         "mid": {
-            "start": 65.454545454545455,
-            "end": 100.363636363636364,
+            "start": 65.45454545454545,
+            "end": 100.36363636363636,
             "fadeIn": 0.727272727272727
         },
         "end": {
-            "start": 65.454545454545455,
+            "start": 65.45454545454545,
             "end": 119.28,
             "fadeIn": 0.727272727272727
         }
@@ -170,6 +176,7 @@
         "id": "020",
         "musicTitle": "Sugar Song & Bitter Step",
         "jacketImage": "sugarsong",
+        "bandId": 3,
         "bpm": 132,
         "difficulty": [
             9,
@@ -184,12 +191,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 56.363636363636364,
-            "end": 92.727272727272727,
+            "start": 56.36363636363637,
+            "end": 92.72727272727273,
             "fadeIn": 0.909090909090909
         },
         "end": {
-            "start": 70.909090909090909,
+            "start": 70.9090909090909,
             "end": 110.976,
             "fadeIn": 0.909090909090909
         }
@@ -198,6 +205,7 @@
         "id": "030",
         "musicTitle": "Re:birth Day",
         "jacketImage": "re_birthday",
+        "bandId": 5,
         "bpm": 170,
         "difficulty": [
             7,
@@ -207,16 +215,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 25.411764705882353,
+            "end": 25.41176470588235,
             "fadeIn": 0
         },
         "mid": {
-            "start": 62.117647058823529,
-            "end": 104.470588235294118,
+            "start": 62.11764705882353,
+            "end": 104.47058823529412,
             "fadeIn": 1.058823529411765
         },
         "end": {
-            "start": 84.705882352941176,
+            "start": 84.70588235294117,
             "end": 124.296,
             "fadeIn": 0.705882352941176
         }
@@ -225,6 +233,7 @@
         "id": "031",
         "musicTitle": "LOUDER",
         "jacketImage": "louder",
+        "bandId": 5,
         "bpm": 195,
         "difficulty": [
             7,
@@ -238,12 +247,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 56.615384615384615,
-            "end": 81.230769230769231,
+            "start": 56.61538461538461,
+            "end": 81.23076923076923,
             "fadeIn": 0.307692307692308
         },
         "end": {
-            "start": 61.384615384615385,
+            "start": 61.38461538461539,
             "end": 109.844875,
             "fadeIn": 0.461538461538462
         }
@@ -252,6 +261,7 @@
         "id": "037",
         "musicTitle": "Goka! Gokai!? Phantom Thief!",
         "jacketImage": "phantom_thief",
+        "bandId": 3,
         "bpm": 215,
         "difficulty": [
             7,
@@ -262,16 +272,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 40.186046511627907,
+            "end": 40.18604651162791,
             "fadeIn": 0
         },
         "mid": {
-            "start": 52.465116279069767,
-            "end": 77.023255813953488,
+            "start": 52.46511627906977,
+            "end": 77.02325581395348,
             "fadeIn": 0.27906976744186
         },
         "end": {
-            "start": 61.395348837209302,
+            "start": 61.395348837209305,
             "end": 101.928,
             "fadeIn": 0.558139534883721
         }
@@ -280,6 +290,7 @@
         "id": "055",
         "musicTitle": "Guren no Yumiya",
         "jacketImage": "055_guren",
+        "bandId": 5,
         "bpm": 181,
         "difficulty": [
             10,
@@ -290,16 +301,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 39.779005524861878,
+            "end": 39.77900552486188,
             "fadeIn": 0
         },
         "mid": {
-            "start": 39.779005524861878,
-            "end": 70.276243093922652,
+            "start": 39.77900552486188,
+            "end": 70.27624309392266,
             "fadeIn": 0.331491712707182
         },
         "end": {
-            "start": 60.994475138121547,
+            "start": 60.994475138121544,
             "end": 98.856,
             "fadeIn": 0.331491712707182
         }
@@ -308,6 +319,7 @@
         "id": "056",
         "musicTitle": "Passionate Starmine",
         "jacketImage": "056_starmine",
+        "bandId": 5,
         "bpm": 187,
         "difficulty": [
             10,
@@ -317,16 +329,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 46.203208556149733,
+            "end": 46.20320855614973,
             "fadeIn": 0
         },
         "mid": {
-            "start": 79.572192513368984,
+            "start": 79.57219251336899,
             "end": 116.79144385026738,
             "fadeIn": 0.641711229946524
         },
         "end": {
-            "start": 84.705882352941176,
+            "start": 84.70588235294117,
             "end": 118.776,
             "fadeIn": 0.962566844919786
         }
@@ -335,6 +347,7 @@
         "id": "065",
         "musicTitle": "Hey-day Capriccio",
         "jacketImage": "065_hey_day",
+        "bandId": 2,
         "bpm": 158,
         "difficulty": [
             10,
@@ -345,16 +358,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 36.455696202531646,
+            "end": 36.45569620253165,
             "fadeIn": 0
         },
         "mid": {
-            "start": 51.645569620253165,
-            "end": 77.468354430379747,
+            "start": 51.64556962025316,
+            "end": 77.46835443037975,
             "fadeIn": 0.379746835443038
         },
         "end": {
-            "start": 77.468354430379747,
+            "start": 77.46835443037975,
             "end": 110.952,
             "fadeIn": 0.379746835443038
         }
@@ -363,6 +376,7 @@
         "id": "066",
         "musicTitle": "Asu no Yozora Shoukaihan",
         "jacketImage": "066_asuno_yozora",
+        "bandId": 2,
         "bpm": 185,
         "difficulty": [
             10,
@@ -373,16 +387,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 36.162162162162162,
+            "end": 36.16216216216216,
             "fadeIn": 0
         },
         "mid": {
-            "start": 36.162162162162162,
-            "end": 58.054054054054054,
+            "start": 36.16216216216216,
+            "end": 58.054054054054056,
             "fadeIn": 0.486486486486486
         },
         "end": {
-            "start": 36.162162162162162,
+            "start": 36.16216216216216,
             "end": 95.424,
             "fadeIn": 0.486486486486486
         }
@@ -391,6 +405,7 @@
         "id": "067",
         "musicTitle": "only my railgun",
         "jacketImage": "067_railgun",
+        "bandId": 1,
         "bpm": 143,
         "difficulty": [
             9,
@@ -401,16 +416,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 36.923076923076923,
+            "end": 36.92307692307692,
             "fadeIn": 0
         },
         "mid": {
-            "start": 63.776223776223776,
-            "end": 97.342657342657343,
+            "start": 63.77622377622377,
+            "end": 97.34265734265735,
             "fadeIn": 0.839160839160839
         },
         "end": {
-            "start": 63.776223776223776,
+            "start": 63.77622377622377,
             "end": 104.976,
             "fadeIn": 0.839160839160839
         }
@@ -419,6 +434,7 @@
         "id": "069",
         "musicTitle": "Worldwide Treasure!",
         "jacketImage": "069_sekanobi",
+        "bandId": 3,
         "bpm": 200,
         "difficulty": [
             8,
@@ -429,16 +445,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 31.058823529411765,
+            "end": 31.058823529411764,
             "fadeIn": 0
         },
         "mid": {
-            "start": 64.941176470588235,
+            "start": 64.94117647058823,
             "end": 91.76470588235294,
             "fadeIn": 0.75
         },
         "end": {
-            "start": 64.941176470588235,
+            "start": 64.94117647058823,
             "end": 107.424,
             "fadeIn": 0.75
         }
@@ -447,6 +463,7 @@
         "id": "070",
         "musicTitle": "SURVIVOR Never Give Up!",
         "jacketImage": "070_survivor",
+        "bandId": 4,
         "bpm": 200,
         "difficulty": [
             10,
@@ -475,6 +492,7 @@
         "id": "073",
         "musicTitle": "Time Lapse",
         "jacketImage": "073_time_lapse",
+        "bandId": 1,
         "bpm": 192,
         "difficulty": [
             9,
@@ -502,6 +520,7 @@
         "id": "075",
         "musicTitle": "-HEROIC ADVENT-",
         "jacketImage": "075_heroic_advent",
+        "bandId": 5,
         "bpm": 182,
         "difficulty": [
             9,
@@ -515,12 +534,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 55.384615384615385,
+            "start": 55.38461538461539,
             "end": 100.21978021978022,
             "fadeIn": 0.659340659340659
         },
         "end": {
-            "start": 58.021978021978022,
+            "start": 58.02197802197802,
             "end": 103.584,
             "fadeIn": 0.989010989010989
         }
@@ -529,6 +548,7 @@
         "id": "076",
         "musicTitle": "Determination Symphony",
         "jacketImage": "076_symphony",
+        "bandId": 5,
         "bpm": 190,
         "difficulty": [
             7,
@@ -538,16 +558,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.315789473684211,
+            "end": 30.315789473684212,
             "fadeIn": 0
         },
         "mid": {
-            "start": 75.631578947368421,
-            "end": 102.315789473684211,
+            "start": 75.63157894736842,
+            "end": 102.3157894736842,
             "fadeIn": 0.789473684210526
         },
         "end": {
-            "start": 75.631578947368421,
+            "start": 75.63157894736842,
             "end": 130.8,
             "fadeIn": 0.789473684210526
         }
@@ -556,6 +576,7 @@
         "id": "081",
         "musicTitle": "Senbonzakura",
         "jacketImage": "081_senbonzakura",
+        "bandId": 1,
         "bpm": 154,
         "difficulty": [
             8,
@@ -565,16 +586,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 34.285714285714286,
+            "end": 34.285714285714285,
             "fadeIn": 0
         },
         "mid": {
-            "start": 59.220779220779221,
-            "end": 96.623376623376623,
+            "start": 59.22077922077922,
+            "end": 96.62337662337663,
             "fadeIn": 0.779220779220779
         },
         "end": {
-            "start": 59.220779220779221,
+            "start": 59.22077922077922,
             "end": 101.376,
             "fadeIn": 0.779220779220779
         }
@@ -583,6 +604,7 @@
         "id": "082",
         "musicTitle": "Koi wa Chaos no Shimobenari",
         "jacketImage": "082_chaos",
+        "bandId": 3,
         "bpm": 158,
         "difficulty": [
             7,
@@ -592,16 +614,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.379746835443038,
+            "end": 30.379746835443036,
             "fadeIn": 0
         },
         "mid": {
-            "start": 60.759493670886076,
-            "end": 91.139240506329114,
+            "start": 60.75949367088607,
+            "end": 91.13924050632912,
             "fadeIn": 0.759493670886076
         },
         "end": {
-            "start": 66.835443037974684,
+            "start": 66.83544303797468,
             "end": 107.16,
             "fadeIn": 0.974025974025974
         }
@@ -610,6 +632,7 @@
         "id": "085",
         "musicTitle": "Happy Synthesizer",
         "jacketImage": "085_happy_synthe",
+        "bandId": 4,
         "bpm": 127,
         "difficulty": [
             7,
@@ -620,16 +643,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 28.346456692913386,
+            "end": 28.346456692913385,
             "fadeIn": 0
         },
         "mid": {
-            "start": 58.582677165354331,
-            "end": 88.818897637795276,
+            "start": 58.58267716535433,
+            "end": 88.81889763779527,
             "fadeIn": 0.94488188976378
         },
         "end": {
-            "start": 103.937007874015748,
+            "start": 103.93700787401575,
             "end": 141.792,
             "fadeIn": 1.062992125984252
         }
@@ -638,6 +661,7 @@
         "id": "089",
         "musicTitle": "Redo",
         "jacketImage": "089_redo",
+        "bandId": 2,
         "bpm": 190,
         "difficulty": [
             9,
@@ -648,16 +672,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 34.105263157894737,
+            "end": 34.10526315789474,
             "fadeIn": 0
         },
         "mid": {
-            "start": 56.842105263157895,
-            "end": 90.947368421052632,
+            "start": 56.8421052631579,
+            "end": 90.94736842105263,
             "fadeIn": 0.315789473684211
         },
         "end": {
-            "start": 56.842105263157895,
+            "start": 56.8421052631579,
             "end": 97.344,
             "fadeIn": 0.315789473684211
         }
@@ -666,6 +690,7 @@
         "id": "096",
         "musicTitle": "ONENESS",
         "jacketImage": "096_oneness",
+        "bandId": 5,
         "bpm": 190,
         "difficulty": [
             8,
@@ -676,16 +701,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 50.246695925333696,
+            "end": 50.2466959253337,
             "fadeIn": 0
         },
         "mid": {
-            "start": 70.45722224112317,
-            "end": 105.667748556912643,
+            "start": 70.45722224112318,
+            "end": 105.66774855691264,
             "fadeIn": 0.947368421052632
         },
         "end": {
-            "start": 85.615116977965275,
+            "start": 85.61511697796527,
             "end": 122.352,
             "fadeIn": 0.631578947368421
         }
@@ -694,6 +719,7 @@
         "id": "109",
         "musicTitle": "This game",
         "jacketImage": "109_this_game",
+        "bandId": 5,
         "bpm": 147,
         "difficulty": [
             11,
@@ -707,12 +733,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 86.53061224489796,
+            "start": 86.53061224489797,
             "end": 119.1836734693878,
             "fadeIn": 0.4081632653061224
         },
         "end": {
-            "start": 86.53061224489796,
+            "start": 86.53061224489797,
             "end": 122.52,
             "fadeIn": 0.4081632653061224
         }
@@ -721,6 +747,7 @@
         "id": "112",
         "musicTitle": "Light Delight",
         "jacketImage": "112_lightdelight",
+        "bandId": 1,
         "bpm": 180,
         "difficulty": [
             9,
@@ -734,12 +761,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 69.333333333333333,
-            "end": 109.333333333333333,
+            "start": 69.33333333333333,
+            "end": 109.33333333333333,
             "fadeIn": 0.666666666666667
         },
         "end": {
-            "start": 82.666666666666667,
+            "start": 82.66666666666667,
             "end": 122.736,
             "fadeIn": 1
         }
@@ -748,6 +775,7 @@
         "id": "118",
         "musicTitle": "Neo-Aspect",
         "jacketImage": "118_neoaspect",
+        "bandId": 5,
         "bpm": 180,
         "difficulty": [
             9,
@@ -757,12 +785,12 @@
         ],
         "begin": {
             "start": 0,
-            "end": 29.333333333333333,
+            "end": 29.333333333333332,
             "fadeIn": 0
         },
         "mid": {
             "start": 72,
-            "end": 109.333333333333333,
+            "end": 109.33333333333333,
             "fadeIn": 0.666666666666667
         },
         "end": {
@@ -775,6 +803,7 @@
         "id": "124",
         "musicTitle": "Mikumiku Ni Shiteageru♪[Shiteyanyo]",
         "jacketImage": "124_mikumiku",
+        "bandId": 4,
         "bpm": 160,
         "difficulty": [
             8,
@@ -802,6 +831,7 @@
         "id": "125",
         "musicTitle": "Unite! From A To Z",
         "jacketImage": "125_tenka_touitsu",
+        "bandId": 4,
         "bpm": 153,
         "difficulty": [
             8,
@@ -812,16 +842,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 34.509803921568627,
+            "end": 34.509803921568626,
             "fadeIn": 0
         },
         "mid": {
             "start": 43.92156862745098,
-            "end": 76.862745098039215,
+            "end": 76.86274509803921,
             "fadeIn": 0.392156862745098
         },
         "end": {
-            "start": 50.196078431372549,
+            "start": 50.19607843137255,
             "end": 91.056,
             "fadeIn": 0.784313725490196
         }
@@ -830,6 +860,7 @@
         "id": "127",
         "musicTitle": "Taiyou Iwaku Moeyo Chaos",
         "jacketImage": "127_moeyochaos",
+        "bandId": 3,
         "bpm": 143,
         "difficulty": [
             9,
@@ -839,16 +870,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 33.566433566433566,
+            "end": 33.56643356643357,
             "fadeIn": 0
         },
         "mid": {
-            "start": 57.062937062937063,
-            "end": 90.629370629370629,
+            "start": 57.06293706293706,
+            "end": 90.62937062937063,
             "fadeIn": 1.468531468531469
         },
         "end": {
-            "start": 57.062937062937063,
+            "start": 57.06293706293706,
             "end": 98.256,
             "fadeIn": 1.468531468531469
         }
@@ -857,6 +888,7 @@
         "id": "128",
         "musicTitle": "Roku Chounen To Ichiya Monogatari",
         "jacketImage": "128_ichiyamonogatari",
+        "bandId": 5,
         "bpm": 186,
         "difficulty": [
             8,
@@ -867,16 +899,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 27.020872865275142,
+            "end": 27.02087286527514,
             "fadeIn": 0
         },
         "mid": {
-            "start": 52.827324478178368,
-            "end": 78.633776091081594,
+            "start": 52.82732447817837,
+            "end": 78.6337760910816,
             "fadeIn": 0.645161290322581
         },
         "end": {
-            "start": 57.988614800759013,
+            "start": 57.98861480075902,
             "end": 103.872,
             "fadeIn": 0.645161290322581
         }
@@ -885,6 +917,7 @@
         "id": "131",
         "musicTitle": "Pico! Papi! Girls Band Party! PICO!!!",
         "jacketImage": "131_garupapico",
+        "bandId": 16,
         "bpm": 190,
         "difficulty": [
             9,
@@ -898,12 +931,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 55.578947368421053,
+            "start": 55.578947368421055,
             "end": 96,
             "fadeIn": 0.631578947368421
         },
         "end": {
-            "start": 55.578947368421053,
+            "start": 55.578947368421055,
             "end": 113.76,
             "fadeIn": 0.631578947368421
         }
@@ -912,6 +945,7 @@
         "id": "148",
         "musicTitle": "Zettai Sengen ~Recital~",
         "jacketImage": "148_zettaisengen",
+        "bandId": 4,
         "bpm": 177,
         "difficulty": [
             10,
@@ -921,16 +955,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 24.406779661016949,
+            "end": 24.406779661016948,
             "fadeIn": 0
         },
         "mid": {
-            "start": 63.728813559322034,
-            "end": 90.847457627118644,
+            "start": 63.728813559322035,
+            "end": 90.84745762711864,
             "fadeIn": 0.677966101694915
         },
         "end": {
-            "start": 63.728813559322034,
+            "start": 63.728813559322035,
             "end": 109.224,
             "fadeIn": 0.677966101694915
         }
@@ -939,6 +973,7 @@
         "id": "149",
         "musicTitle": "R",
         "jacketImage": "149_r",
+        "bandId": 5,
         "bpm": 188,
         "difficulty": [
             8,
@@ -948,16 +983,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 44.680851063829787,
+            "end": 44.680851063829785,
             "fadeIn": 0
         },
         "mid": {
-            "start": 67.659574468085106,
-            "end": 108.51063829787234,
+            "start": 67.65957446808511,
+            "end": 108.51063829787233,
             "fadeIn": 0.638297872340426
         },
         "end": {
-            "start": 67.659574468085106,
+            "start": 67.65957446808511,
             "end": 111.144,
             "fadeIn": 0.638297872340426
         }
@@ -966,6 +1001,7 @@
         "id": "153",
         "musicTitle": "PASSIONATE ANTHEM",
         "jacketImage": "153_passionate",
+        "bandId": 5,
         "bpm": 195,
         "difficulty": [
             9,
@@ -993,6 +1029,7 @@
         "id": "157",
         "musicTitle": "Extra Magic Hour",
         "jacketImage": "157_extra_magic",
+        "bandId": 3,
         "bpm": 180,
         "difficulty": [
             8,
@@ -1007,7 +1044,7 @@
         },
         "mid": {
             "start": 56,
-            "end": 89.333333333333333,
+            "end": 89.33333333333333,
             "fadeIn": 0.666666666666667
         },
         "end": {
@@ -1020,6 +1057,7 @@
         "id": "159",
         "musicTitle": "BRAVE JEWEL",
         "jacketImage": "159_brave_jewel",
+        "bandId": 5,
         "bpm": 192,
         "difficulty": [
             8,
@@ -1047,6 +1085,7 @@
         "id": "160",
         "musicTitle": "R・I・O・T",
         "jacketImage": "160_riot_raise",
+        "bandId": 18,
         "bpm": 140,
         "difficulty": [
             7,
@@ -1056,12 +1095,12 @@
         ],
         "begin": {
             "start": 0,
-            "end": 42.857142857142857,
+            "end": 42.857142857142854,
             "fadeIn": 0
         },
         "mid": {
             "start": 84,
-            "end": 114.857142857142857,
+            "end": 114.85714285714286,
             "fadeIn": 0.857142857142857
         },
         "end": {
@@ -1074,6 +1113,7 @@
         "id": "166",
         "musicTitle": "Maware! Setsugetsuka",
         "jacketImage": "166_maware_setsugekka",
+        "bandId": 3,
         "bpm": 160,
         "difficulty": [
             10,
@@ -1101,6 +1141,7 @@
         "id": "175",
         "musicTitle": "Ringing Bloom",
         "jacketImage": "175_ringingbloom",
+        "bandId": 5,
         "bpm": 195,
         "difficulty": [
             12,
@@ -1110,16 +1151,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.769230769230769,
+            "end": 30.76923076923077,
             "fadeIn": 0
         },
         "mid": {
-            "start": 60.307692307692308,
-            "end": 89.538461538461538,
+            "start": 60.30769230769231,
+            "end": 89.53846153846153,
             "fadeIn": 0.615384615384615
         },
         "end": {
-            "start": 69.846153846153846,
+            "start": 69.84615384615384,
             "end": 121.296,
             "fadeIn": 0.615384615384615
         }
@@ -1128,6 +1169,7 @@
         "id": "186",
         "musicTitle": "Kyu～Mai＊Flower",
         "jacketImage": "186_myflower",
+        "bandId": 4,
         "bpm": 183,
         "difficulty": [
             9,
@@ -1137,16 +1179,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 31.475409836065574,
+            "end": 31.475409836065573,
             "fadeIn": 0
         },
         "mid": {
-            "start": 52.459016393442623,
-            "end": 85.245901639344262,
+            "start": 52.459016393442624,
+            "end": 85.24590163934427,
             "fadeIn": 0.655737704918033
         },
         "end": {
-            "start": 52.459016393442623,
+            "start": 52.459016393442624,
             "end": 92.544,
             "fadeIn": 0.655737704918033
         }
@@ -1155,6 +1197,7 @@
         "id": "187",
         "musicTitle": "FIRE BIRD",
         "jacketImage": "187_firebird",
+        "bandId": 5,
         "bpm": 150,
         "difficulty": [
             9,
@@ -1178,37 +1221,11 @@
             "fadeIn": 0.8
         }
     },
-    "197": {
-        "id": "197",
-        "musicTitle": "Smile x Smile = Hyper Smile Power!",
-        "jacketImage": "197_niconicosmaile",
-        "bpm": 190,
-        "difficulty": [
-            9,
-            14,
-            18,
-            26
-        ],
-        "begin": {
-            "start": 0,
-            "end": 29.052631578947368,
-            "fadeIn": 0
-        },
-        "mid": {
-            "start": 59.368421052631579,
-            "end": 92.210526315789474,
-            "fadeIn": 0.315789473684211
-        },
-        "end": {
-            "start": 69.315789473684211,
-            "end": 107.448,
-            "fadeIn": 0.473684210526316
-        }
-    },
     "194": {
         "id": "194",
         "musicTitle": "UNSTOPPABLE",
         "jacketImage": "194_unstoppable",
+        "bandId": 18,
         "bpm": 170,
         "difficulty": [
             8,
@@ -1218,24 +1235,53 @@
         ],
         "begin": {
             "start": 0,
-            "end": 38.117647058823529,
+            "end": 38.11764705882353,
             "fadeIn": 0
         },
         "mid": {
-            "start": 63.529411764705882,
-            "end": 97.411764705882353,
+            "start": 63.529411764705884,
+            "end": 97.41176470588235,
             "fadeIn": 1.411764705882353
         },
         "end": {
-            "start": 63.529411764705882,
+            "start": 63.529411764705884,
             "end": 102.408,
             "fadeIn": 1.411764705882353
+        }
+    },
+    "197": {
+        "id": "197",
+        "musicTitle": "Smile x Smile = Hyper Smile Power!",
+        "jacketImage": "197_niconicosmaile",
+        "bandId": 3,
+        "bpm": 190,
+        "difficulty": [
+            9,
+            14,
+            18,
+            26
+        ],
+        "begin": {
+            "start": 0,
+            "end": 29.052631578947366,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 59.36842105263158,
+            "end": 92.21052631578948,
+            "fadeIn": 0.315789473684211
+        },
+        "end": {
+            "start": 69.3157894736842,
+            "end": 107.448,
+            "fadeIn": 0.473684210526316
         }
     },
     "203": {
         "id": "203",
         "musicTitle": "A DECLARATION OF ×××",
         "jacketImage": "203_declaration",
+        "bandId": 18,
         "bpm": 150,
         "difficulty": [
             8,
@@ -1263,6 +1309,7 @@
         "id": "204",
         "musicTitle": "Miiro",
         "jacketImage": "204_miiro",
+        "bandId": 5,
         "bpm": 195,
         "difficulty": [
             9,
@@ -1272,16 +1319,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 38.153846153846154,
+            "end": 38.15384615384615,
             "fadeIn": 0
         },
         "mid": {
-            "start": 56.923076923076923,
-            "end": 92.307692307692308,
+            "start": 56.92307692307692,
+            "end": 92.3076923076923,
             "fadeIn": 0.307692307692308
         },
         "end": {
-            "start": 56.923076923076923,
+            "start": 56.92307692307692,
             "end": 94.224,
             "fadeIn": 0.307692307692308
         }
@@ -1290,6 +1337,7 @@
         "id": "210",
         "musicTitle": "Hot, Hot! Sunny Love☆Summer!",
         "jacketImage": "210_lovesummer",
+        "bandId": 4,
         "bpm": 172,
         "difficulty": [
             9,
@@ -1299,16 +1347,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 32.093023255813953,
+            "end": 32.093023255813954,
             "fadeIn": 0
         },
         "mid": {
-            "start": 62.790697674418605,
-            "end": 93.488372093023256,
+            "start": 62.7906976744186,
+            "end": 93.48837209302326,
             "fadeIn": 0.872093023255814
         },
         "end": {
-            "start": 69.767441860465116,
+            "start": 69.76744186046511,
             "end": 109.608,
             "fadeIn": 1.046511627906977
         }
@@ -1317,6 +1365,7 @@
         "id": "222",
         "musicTitle": "Sasanqua",
         "jacketImage": "222_sasanqua",
+        "bandId": 2,
         "bpm": 198,
         "difficulty": [
             7,
@@ -1326,16 +1375,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 26.666666666666667,
+            "end": 26.666666666666668,
             "fadeIn": 0
         },
         "mid": {
-            "start": 58.181818181818182,
-            "end": 92.121212121212121,
+            "start": 58.18181818181818,
+            "end": 92.12121212121212,
             "fadeIn": 0.909090909090909
         },
         "end": {
-            "start": 70.303030303030303,
+            "start": 70.3030303030303,
             "end": 103.104,
             "fadeIn": 1.060606060606061
         }
@@ -1344,6 +1393,7 @@
         "id": "227",
         "musicTitle": "Paradisus-Paradoxum",
         "jacketImage": "227_paradisus",
+        "bandId": 5,
         "bpm": 201,
         "difficulty": [
             11,
@@ -1353,12 +1403,12 @@
         ],
         "begin": {
             "start": 0,
-            "end": 31.044776119402985,
+            "end": 31.044776119402986,
             "fadeIn": 0
         },
         "mid": {
             "start": 62.08955223880597,
-            "end": 85.970149253731343,
+            "end": 85.97014925373135,
             "fadeIn": 0.597014925373134
         },
         "end": {
@@ -1371,6 +1421,7 @@
         "id": "232",
         "musicTitle": "Initial",
         "jacketImage": "232_initial",
+        "bandId": 1,
         "bpm": 193,
         "difficulty": [
             10,
@@ -1384,12 +1435,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 59.689119170984456,
+            "start": 59.689119170984455,
             "end": 90.77720207253886,
             "fadeIn": 0.621761658031088
         },
         "end": {
-            "start": 59.689119170984456,
+            "start": 59.689119170984455,
             "end": 92.712,
             "fadeIn": 0.621761658031088
         }
@@ -1398,6 +1449,7 @@
         "id": "233",
         "musicTitle": "Amanojaku",
         "jacketImage": "233_amanojyaku",
+        "bandId": 2,
         "bpm": 200,
         "difficulty": [
             11,
@@ -1425,6 +1477,7 @@
         "id": "245",
         "musicTitle": "Song I am.",
         "jacketImage": "245_songiam",
+        "bandId": 5,
         "bpm": 190,
         "difficulty": [
             8,
@@ -1434,16 +1487,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 37.894736842105263,
+            "end": 37.89473684210526,
             "fadeIn": 0
         },
         "mid": {
-            "start": 58.105263157894737,
-            "end": 88.421052631578947,
+            "start": 58.10526315789474,
+            "end": 88.42105263157895,
             "fadeIn": 0.631578947368421
         },
         "end": {
-            "start": 64.421052631578947,
+            "start": 64.42105263157895,
             "end": 102.384,
             "fadeIn": 0.473684210526316
         }
@@ -1452,6 +1505,7 @@
         "id": "247",
         "musicTitle": "EXPOSE ‘Burn out!!!’",
         "jacketImage": "247_expose",
+        "bandId": 18,
         "bpm": 190,
         "difficulty": [
             9,
@@ -1465,12 +1519,12 @@
             "fadeIn": 0
         },
         "mid": {
-            "start": 64.263157894736842,
-            "end": 95.842105263157895,
+            "start": 64.26315789473684,
+            "end": 95.84210526315789,
             "fadeIn": 0.947368421052632
         },
         "end": {
-            "start": 64.263157894736842,
+            "start": 64.26315789473684,
             "end": 103.008,
             "fadeIn": 0.947368421052632
         }
@@ -1479,6 +1533,7 @@
         "id": "251",
         "musicTitle": "I love your way！",
         "jacketImage": "251_i_love_your_way",
+        "bandId": 2,
         "bpm": 130,
         "difficulty": [
             9,
@@ -1488,16 +1543,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 25.846153846153846,
+            "end": 25.846153846153847,
             "fadeIn": 0
         },
         "mid": {
-            "start": 59.076923076923077,
-            "end": 94.153846153846154,
+            "start": 59.07692307692308,
+            "end": 94.15384615384616,
             "fadeIn": 0.923076923076923
         },
         "end": {
-            "start": 59.076923076923077,
+            "start": 59.07692307692308,
             "end": 99.768,
             "fadeIn": 0.923076923076923
         }
@@ -1506,6 +1561,7 @@
         "id": "255",
         "musicTitle": "-Daylight-",
         "jacketImage": "255_daylight",
+        "bandId": 21,
         "bpm": 185,
         "difficulty": [
             8,
@@ -1515,16 +1571,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 40.070730880332438,
+            "end": 40.07073088033244,
             "fadeIn": 0
         },
         "mid": {
-            "start": 84.178838988440546,
-            "end": 110.124784934386492,
+            "start": 84.17883898844055,
+            "end": 110.1247849343865,
             "fadeIn": 0.648648648648649
         },
         "end": {
-            "start": 89.205866015467573,
+            "start": 89.20586601546758,
             "end": 122.52,
             "fadeIn": 0.486486486486486
         }
@@ -1533,6 +1589,7 @@
         "id": "259",
         "musicTitle": "chAngE",
         "jacketImage": "259_change",
+        "bandId": 21,
         "bpm": 165,
         "difficulty": [
             8,
@@ -1542,16 +1599,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 27.636363636363636,
+            "end": 27.636363636363637,
             "fadeIn": 0
         },
         "mid": {
-            "start": 62.545454545454545,
-            "end": 91.636363636363636,
+            "start": 62.54545454545455,
+            "end": 91.63636363636364,
             "fadeIn": 0.727272727272727
         },
         "end": {
-            "start": 62.545454545454545,
+            "start": 62.54545454545455,
             "end": 104.808,
             "fadeIn": 0.727272727272727
         }
@@ -1560,6 +1617,7 @@
         "id": "263",
         "musicTitle": "Bloom Bloom",
         "jacketImage": "263_bloom",
+        "bandId": 21,
         "bpm": 180,
         "difficulty": [
             9,
@@ -1569,16 +1627,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 22.666666666666667,
+            "end": 22.666666666666668,
             "fadeIn": 0
         },
         "mid": {
-            "start": 65.333333333333333,
+            "start": 65.33333333333333,
             "end": 94.5,
             "fadeIn": 0.333333333333333
         },
         "end": {
-            "start": 65.333333333333333,
+            "start": 65.33333333333333,
             "end": 110.064,
             "fadeIn": 0.333333333333333
         }
@@ -1587,6 +1645,7 @@
         "id": "268",
         "musicTitle": "One Extra Large! Garupa☆Pico",
         "jacketImage": "268_omori_pico",
+        "bandId": 16,
         "bpm": 163,
         "difficulty": [
             10,
@@ -1596,16 +1655,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 42.699386503067485,
+            "end": 42.69938650306749,
             "fadeIn": 0
         },
         "mid": {
-            "start": 55.950920245398773,
-            "end": 87.239263803680982,
+            "start": 55.95092024539877,
+            "end": 87.23926380368098,
             "fadeIn": 1.104294478527607
         },
         "end": {
-            "start": 55.950920245398773,
+            "start": 55.95092024539877,
             "end": 111.888,
             "fadeIn": 1.104294478527607
         }
@@ -1614,6 +1673,7 @@
         "id": "270",
         "musicTitle": "RED RED RED",
         "jacketImage": "270_redredred",
+        "bandId": 2,
         "bpm": 188,
         "difficulty": [
             8,
@@ -1623,16 +1683,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.638297872340426,
+            "end": 30.638297872340427,
             "fadeIn": 0
         },
         "mid": {
-            "start": 71.48936170212766,
-            "end": 101.968085106382979,
+            "start": 71.48936170212767,
+            "end": 101.96808510638297,
             "fadeIn": 0.638297872340426
         },
         "end": {
-            "start": 71.48936170212766,
+            "start": 71.48936170212767,
             "end": 109.224,
             "fadeIn": 0.638297872340426
         }
@@ -1641,6 +1701,7 @@
         "id": "279",
         "musicTitle": "flame of hope",
         "jacketImage": "279_flame_of_hope",
+        "bandId": 21,
         "bpm": 190,
         "difficulty": [
             10,
@@ -1650,16 +1711,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 44.052631578947368,
+            "end": 44.05263157894737,
             "fadeIn": 0
         },
         "mid": {
-            "start": 81.947368421052632,
-            "end": 109.894736842105263,
+            "start": 81.94736842105263,
+            "end": 109.89473684210526,
             "fadeIn": 0.473684210526316
         },
         "end": {
-            "start": 81.947368421052632,
+            "start": 81.94736842105263,
             "end": 111.864,
             "fadeIn": 0.473684210526316
         }
@@ -1668,6 +1729,7 @@
         "id": "283",
         "musicTitle": "BRING IT ON",
         "jacketImage": "283_rettou",
+        "bandId": 18,
         "bpm": 160,
         "difficulty": [
             10,
@@ -1695,6 +1757,7 @@
         "id": "284",
         "musicTitle": "I knew it!",
         "jacketImage": "284_i_knew_it",
+        "bandId": 2,
         "bpm": 200,
         "difficulty": [
             9,
@@ -1722,6 +1785,7 @@
         "id": "289",
         "musicTitle": "!NVADE SHOW!",
         "jacketImage": "289_invadeshow",
+        "bandId": 18,
         "bpm": 169,
         "difficulty": [
             9,
@@ -1731,16 +1795,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 26.982248520710059,
+            "end": 26.98224852071006,
             "fadeIn": 0
         },
         "mid": {
             "start": 61.06508875739645,
-            "end": 86.627218934911243,
+            "end": 86.62721893491124,
             "fadeIn": 0.710059171597633
         },
         "end": {
-            "start": 75.266272189349112,
+            "start": 75.26627218934911,
             "end": 106.584,
             "fadeIn": 0.710059171597633
         }
@@ -1749,6 +1813,7 @@
         "id": "291",
         "musicTitle": "Zeal of Proud",
         "jacketImage": "291_zeal_of_proud",
+        "bandId": 5,
         "bpm": 195,
         "difficulty": [
             9,
@@ -1758,16 +1823,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 41.846153846153846,
+            "end": 41.84615384615385,
             "fadeIn": 0
         },
         "mid": {
-            "start": 61.538461538461538,
-            "end": 86.153846153846154,
+            "start": 61.53846153846154,
+            "end": 86.15384615384616,
             "fadeIn": 0.615384615384615
         },
         "end": {
-            "start": 61.538461538461538,
+            "start": 61.53846153846154,
             "end": 103.464,
             "fadeIn": 0.615384615384615
         }
@@ -1776,6 +1841,7 @@
         "id": "293",
         "musicTitle": "ONE OF US",
         "jacketImage": "293_one_of_us",
+        "bandId": 2,
         "bpm": 210,
         "difficulty": [
             10,
@@ -1785,12 +1851,12 @@
         ],
         "begin": {
             "start": 0,
-            "end": 41.142857142857143,
+            "end": 41.142857142857146,
             "fadeIn": 0
         },
         "mid": {
-            "start": 54.857142857142857,
-            "end": 82.285714285714286,
+            "start": 54.857142857142854,
+            "end": 82.28571428571429,
             "fadeIn": 0.285714285714286
         },
         "end": {
@@ -1803,6 +1869,7 @@
         "id": "295",
         "musicTitle": "Nevereverland",
         "jacketImage": "295_nevereverland",
+        "bandId": 21,
         "bpm": 206.5,
         "difficulty": [
             10,
@@ -1812,16 +1879,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 39.697820823244554,
+            "end": 39.697820823244555,
             "fadeIn": 0
         },
         "mid": {
-            "start": 97.22808716707022,
-            "end": 128.608232445520583,
+            "start": 97.22808716707021,
+            "end": 128.60823244552057,
             "fadeIn": 0.290556900726392
         },
         "end": {
-            "start": 97.22808716707022,
+            "start": 97.22808716707021,
             "end": 130.992,
             "fadeIn": 0.290556900726392
         }
@@ -1830,6 +1897,7 @@
         "id": "296",
         "musicTitle": "Setsuna Trip",
         "jacketImage": "296_setsunatrip",
+        "bandId": 1,
         "bpm": 145,
         "difficulty": [
             9,
@@ -1839,16 +1907,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 31.487069449828538,
+            "end": 31.48706944982854,
             "fadeIn": 0
         },
         "mid": {
-            "start": 77.831897036035434,
-            "end": 110.935345311897503,
+            "start": 77.83189703603543,
+            "end": 110.9353453118975,
             "fadeIn": 0.827586206896552
         },
         "end": {
-            "start": 84.452586691207848,
+            "start": 84.45258669120784,
             "end": 128.376,
             "fadeIn": 0.620689655172414
         }
@@ -1857,6 +1925,7 @@
         "id": "299",
         "musicTitle": "Rolling star",
         "jacketImage": "299_rolling_star",
+        "bandId": 2,
         "bpm": 161,
         "difficulty": [
             8,
@@ -1866,16 +1935,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 34.285714285714286,
+            "end": 34.285714285714285,
             "fadeIn": 0
         },
         "mid": {
-            "start": 34.285714285714286,
-            "end": 59.627329192546584,
+            "start": 34.285714285714285,
+            "end": 59.62732919254658,
             "fadeIn": 0.372670807453416
         },
         "end": {
-            "start": 77.515527950310559,
+            "start": 77.51552795031056,
             "end": 119.328,
             "fadeIn": 0.372670807453416
         }
@@ -1884,6 +1953,7 @@
         "id": "301",
         "musicTitle": "mind of Prominence",
         "jacketImage": "301_mind_of_prominence",
+        "bandId": 18,
         "bpm": 188,
         "difficulty": [
             9,
@@ -1893,16 +1963,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 30.478723404255319,
+            "end": 30.47872340425532,
             "fadeIn": 0
         },
         "mid": {
-            "start": 56.170212765957447,
-            "end": 85.531914893617021,
+            "start": 56.170212765957444,
+            "end": 85.53191489361703,
             "fadeIn": 0.638297872340426
         },
         "end": {
-            "start": 56.170212765957447,
+            "start": 56.170212765957444,
             "end": 101.568,
             "fadeIn": 0.638297872340426
         }
@@ -1911,6 +1981,7 @@
         "id": "302",
         "musicTitle": "sister's noise",
         "jacketImage": "302_sisters_noise",
+        "bandId": 5,
         "bpm": 144,
         "difficulty": [
             8,
@@ -1920,16 +1991,16 @@
         ],
         "begin": {
             "start": 0,
-            "end": 33.333333333333333,
+            "end": 33.333333333333336,
             "fadeIn": 0
         },
         "mid": {
             "start": 60,
-            "end": 91.666666666666667,
+            "end": 91.66666666666667,
             "fadeIn": 0.520833333333333
         },
         "end": {
-            "start": 61.666666666666667,
+            "start": 61.666666666666664,
             "end": 97.584,
             "fadeIn": 0.520833333333333
         }
@@ -1938,6 +2009,7 @@
         "id": "304",
         "musicTitle": "SENSENFUKOKU",
         "jacketImage": "304_sensenfukoku",
+        "bandId": 2,
         "bpm": 200,
         "difficulty": [
             9,
