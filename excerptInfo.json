@@ -2032,5 +2032,33 @@
             "end": 102.672,
             "fadeIn": 0.6
         }
+    },
+    "339": {
+        "id": "339",
+        "musicTitle": "Domination to world",
+        "jacketImage": "339_domination_to_world",
+        "bandId": 18,
+        "bpm": 200,
+        "difficulty": [
+            9,
+            15,
+            20,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 45.6,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 64.8,
+            "end": 96,
+            "fadeIn": 0.6
+        },
+        "end": {
+            "start": 67.2,
+            "end": 109.872,
+            "fadeIn": 0.6
+        }
     }
 }
