@@ -2033,6 +2033,34 @@
             "fadeIn": 0.6
         }
     },
+    "337": {
+        "id": "337",
+        "musicTitle": "overtuRe",
+        "jacketImage": "337_overture",
+        "bandId": 5,
+        "bpm": 193,
+        "difficulty": [
+            9,
+            14,
+            20,
+            27
+        ],
+        "begin": {
+            "start": 0,
+            "end": 44.766839378238342,
+            "fadeIn": 0
+        },
+        "mid": {
+            "start": 59.689119170984456,
+            "end": 99.481865284974093,
+            "fadeIn": 0.621761658031088
+        },
+        "end": {
+            "start": 59.689119170984456,
+            "end": 101.424,
+            "fadeIn": 0.621761658031088
+        }
+    },
     "338": {
         "id": "338",
         "musicTitle": "My Dearest",
